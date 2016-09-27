@@ -1,5 +1,15 @@
+jwkvam modded
+-------------
+
+This contains a few modifications.
+
+- Evaluate Markdown when leaving cells (when using {ctrl,}{j,k}).
+- Ctrl-C exits insert mode, because I'm an awful vimmer.
+- A few other shortcuts setup.
+
 jupyter-vim-binding
 ===============================================================================
+
 ![Version 2.0.4](https://img.shields.io/badge/version-2.0.4-yellow.svg?style=flat-square) ![Support Jupyter 4.1 or above](https://img.shields.io/badge/support-Jupyter%204.1%20or%20above-yellowgreen.svg?style=flat-square) [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE) ![Doc](https://img.shields.io/badge/doc-%3Ah%20Press%20F1%20on%20Jupyter-orange.svg?style=flat-square)
 
 Do you use Vim? And you need to use [Jupyter Notebook]?
